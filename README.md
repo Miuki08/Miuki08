@@ -10,7 +10,7 @@ Seorang **programmer pemula** yang sedang berpetualang di dunia kode, walau terk
 ## 🌐 Socials
 Yuk, terhubung denganku!
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bimsmurderqueen08) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/veliciafuu) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC8sGXMJYx5bUokpabUvXh1Q)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/bimsmurderqueen08](https://www.instagram.com/veliciarin_?igsh=cHNnemFvaXZ1cWRr)) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/veliciafuu) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC8sGXMJYx5bUokpabUvXh1Q)
 
 ---
 
