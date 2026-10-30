@@ -33,7 +33,7 @@ Aku tertarik pada web development, backend, dan sesekali mencoba hal baru di dun
 
 ### Database
 
-![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=7)
+![My Skills](https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb&perline=7)
 
 ### Runtime & Tools
 
