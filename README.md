@@ -37,7 +37,7 @@ Aku tertarik pada web development, backend, dan sesekali mencoba hal baru di dun
 
 ### Runtime & Tools
 
-![My Skills](https://skillicons.dev/icons?i=nodejs,bun,docker,postman,nginx,apache,rabbitmq,ubuntu&perline=7)
+![My Skills](https://skillicons.dev/icons?i=nodejs,bun,docker,postman,nginx,kafka,rabbitmq,ubuntu&perline=7)
 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
