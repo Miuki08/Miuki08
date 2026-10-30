@@ -1,70 +1,74 @@
-# ✨ Welcome! Aku Velicia! ✨
+# Hai, aku Velicia (・ω・)ノ
 
----
+Selamat datang di GitHub-ku. Aku sedang belajar dan membangun hal-hal kecil melalui kode, sambil sesekali kabur ke dunia anime dan game.
 
-## 💫 About Me
-Seorang **programmer pemula** yang sedang berpetualang di dunia kode, walau terkadang tersesat dalam *bug* yang misterius. Jujur, lebih seringnya malah nyangkut di **dunia anime!** 🍜👾 Kalau lagi fokus *marathon* episode terbaru, mohon jangan diganggu, ya! 😉
+## Tentang aku
 
----
+Hai, aku Velicia — programmer pemula yang suka bereksperimen dengan kode, kadang ketemu bug aneh, kadang juga ketemu solusi yang menyenangkan. Di luar ngoding, aku sering habis waktu untuk anime, game, dan hal-hal kreatif.
 
-## 🌐 Socials
-Yuk, terhubung denganku!
+Aku tertarik pada web development, backend, dan sesekali mencoba hal baru di dunia creative tools.
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/kiranakita.dev) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/reinaadayo) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@reinaa.m?si=LqlNJfBwdER05AtG)
+## Terhubung
 
----
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kiranakita.dev)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/reinaadayo)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@reinaa.m?si=LqlNJfBwdER05AtG)
 
-## 💻 Tech Stack
-Berikut adalah *tools* dan bahasa yang sering saya gunakan dalam proyek-proyek saya:
+## Tech Stack
 
-### Frontend & Backend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+### Bahasa
 
-### Frameworks & Libraries
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![My Skills](https://skillicons.dev/icons?i=js,ts,php,cs,java,go&perline=7)
 
-### Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools & Others
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
+### Markup & Styling
 
----
+![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap&perline=7)
 
-## 📊 GitHub Stats
-Lihat perjalanan *coding* saya di GitHub!
+### Framework & Library
 
-| GitHub Streak Stats | Top Languages |
-|---|---|
-| ![](https://nirzak-streak-stats.vercel.app/?user=Miuki08&theme=outrun&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Miuki08&theme=outrun&hide_border=true&include_all_commits=false&count_private=false&layout=compact) |
+![My Skills](https://skillicons.dev/icons?i=react,laravel&perline=7)
 
----
+### Database
 
-### 🏆 GitHub Trophies
-Koleksi piala dari petualangan saya di GitHub:
-![](https://github-profile-trophy.vercel.app/?username=Miuki08&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
+![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&perline=7)
 
----
+### Runtime & Tools
 
-### ✍️ Random Dev Quote
-Suntikan semangat hari ini:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![My Skills](https://skillicons.dev/icons?i=nodejs,bun,docker,postman,nginx,apache&perline=7)
 
----
+![WSL](https://img.shields.io/badge/WSL-0A64F4?style=for-the-badge&logo=windows&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-### 🔝 Top Contributed Repo
-Beberapa proyek yang paling saya kontribusikan:
-![](https://github-contributor-stats.vercel.app/api?username=Miuki08&limit=5&theme=outrun&combine_all_yearly_contributions=true)
+### Creative Tools
 
----
+![My Skills](https://skillicons.dev/icons?i=blender,figma,canva&perline=7)
 
-### 🚀 Pengunjung Profil
-Terima kasih sudah mampir!
-[![](https://visitcount.itsvg.in/api?id=Miuki08&icon=6&color=1)](https://visitcount.itsvg.in)
+![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
+![VRoid Studio](https://img.shields.io/badge/VRoid_Studio-FF5C8C?style=for-the-badge&logo=vroid&logoColor=white)
 
----
+## GitHub
 
-## 💰 Dukung Perjalanan Ngoding dan Anime Saya!
-Jika kamu suka dengan apa yang saya lakukan atau ingin sekadar traktir ramen, dukunganmu sangat berarti!
+### Ringkasan aktivitas
 
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/lilyaveniciaa)
+![Velicia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miuki08&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+### Streak kontribusi
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Miuki08&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+### Aktivitas 31 hari terakhir
+
+[![Velicia's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Miuki08&theme=tokyo-night&hide_border=true)](https://github.com/Miuki08)
+
+### Bahasa yang paling sering dipakai
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Miuki08&layout=compact&hide_border=true&theme=tokyonight)
+
+## Terima kasih sudah mampir
+
+Kalau kamu suka proyek atau isi profilku, jangan ragu untuk menjelajah repositoriku. Dukungan kecil juga sangat berarti.
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/lilyaveniciaa)
