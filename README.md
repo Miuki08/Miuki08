@@ -28,19 +28,23 @@ Aku tertarik pada web development, backend, dan sesekali mencoba hal baru di dun
 
 ### Framework & Library
 
-![My Skills](https://skillicons.dev/icons?i=react,laravel&perline=7)
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,laravel,elysia&perline=7)
+![Phalcon](https://img.shields.io/badge/Phalcon-78C5B5?style=for-the-badge&logo=phalcon&logoColor=white)
 
 ### Database
 
-![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&perline=7)
+![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=7)
 
 ### Runtime & Tools
 
-![My Skills](https://skillicons.dev/icons?i=nodejs,bun,docker,postman,nginx,apache&perline=7)
+![My Skills](https://skillicons.dev/icons?i=nodejs,bun,docker,postman,nginx,apache,rabbitmq,ubuntu&perline=7)
 
-![WSL](https://img.shields.io/badge/WSL-0A64F4?style=for-the-badge&logo=windows&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+### Version Control
+
+![My Skills](https://skillicons.dev/icons?i=git,github,gitlab&perline=7)
 
 ### Creative Tools
 
